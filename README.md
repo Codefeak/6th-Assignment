@@ -4,3 +4,6 @@
 Using css-grid it was possible to avoid usage of margin and padding which helps a lot but at the same time, it was reall confusing working with nested grid-``
 
 ## HTML & CSS 
+
+## Support Browser
+`Chrome`
